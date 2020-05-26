@@ -1,1 +1,3 @@
-# Java-20441-OpenUni-2020a
+# JavaIntro
+
+- OpenUniversity Jave Intro course. (2020a)
