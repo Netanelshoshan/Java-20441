@@ -1,3 +1,3 @@
-# JavaIntro
+# Java Intro
 
-- OpenUniversity Jave Intro course. (2020a)
+- OpenUniversity Java Intro course. (2020a)
